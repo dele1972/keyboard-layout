@@ -9,7 +9,8 @@
 
     ‣ Telegraph / Typewriter
 
-    ‣ Besides text and numbers, also control characters needed (printing Telegraph/Teleprinter)
+    ‣ Besides text and numbers, also control characters needed
+      (printing Telegraph/Teleprinter)
 
       • End of Transmission, New Line, …
 
@@ -21,6 +22,7 @@
 
   ▶  Human-Computer Communication
 
-    ‣  Teleprinter → Terminal with ASCII (American Standard Code for Information Interchange)
+    ‣  Teleprinter → Terminal with ASCII
+       (American Standard Code for Information Interchange)
 
     ‣  Shift, Control
