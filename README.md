@@ -19,7 +19,7 @@ During my entire working live in the IT industry, I've met a lot of crazy IT guy
 interesting Keyboards. A few times, for example, I've seen completely black keyboards with no
 symbols printed on them (what the heck, why?!).  
 
-A year ago I was talkomg with Martin, a colleague, about his used keyboard Layout. During our reviews
+A year ago I was talking with Martin, a colleague, about his used keyboard Layout. During our reviews
 or pair programming, he said that he had to change the keyboard layout before he could give his
 keyboard to me. He used a German keyboard like me, but with a different keyboard layout: Neo.
 
